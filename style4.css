@@ -92,7 +92,16 @@ li.c4{
     font-weight: 500;
 }
 
-a{text-decoration: none ;}
-a:link{color:#993399 ;}
-a:visited{color : #937393}
-a:hover{color: #C700F2;background-color:#FFC0CB;}
+a{
+    text-decoration: none ;
+}
+a:link{
+    color:#993399 ;
+}
+a:visited{
+    color : #937393
+}
+a:hover{
+    color: #C700F2;
+    background-color:#FFC0CB;
+}
