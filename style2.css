@@ -1,0 +1,92 @@
+body{
+    font-family: Verdana, sans-serif;
+    background-color: #D2DC9D;
+}
+
+h1 {
+    font-family: "Marko one", Georgia; 
+    font-size: 1.5em;
+    color:#993399 ;
+    text-shadow: 0.1em 0.1em silver;
+}
+
+h2 {
+    font-size: 1em;
+    letter-spacing: 8px;
+    color:#CC6600;
+    text-align:center;
+}
+
+#div1 {
+    text-align:center;
+    background-color: white;
+    opacity: 0.5;
+}
+
+ul {
+    list-style-type: none; 
+}
+
+li{
+    color:blue;
+}
+
+span.price{
+    font-family: Georgia;
+    color:#808080;
+    font-style: italic;
+}
+
+p.warning{
+    color:#FF0000;
+    font-size: 0.8rem;
+
+}
+
+strong{
+    color:#FF6347;
+    font-style: italic;
+}
+dl dt{
+    color: #A0522D;
+    font-weight: 600 ;
+}
+
+#info p{
+    color :#D3D3D3;
+    font-style: italic;
+}
+
+#info span.label{
+    color :  #808080;
+    font-weight: 600;
+    font-style: normal;
+}
+
+li.c1{
+    list-style-type: lower-roman;
+    color: black;
+}
+
+li.c2{
+    list-style-type: circle;
+    color: black;
+}
+
+li.c3{
+    list-style-type: disc;
+    color: black;
+    list-style-position: inside;
+}
+
+li.c4{
+    list-style-image: url(/images/bull.PNG);
+    color: black;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+a{text-decoration: none ;}
+a:link{color:#993399 ;}
+a:visited{color : #937393}
+a:hover{color: #C700F2;background-color:#FFC0CB;}
